@@ -1,0 +1,5 @@
+{
+  "name": "Adwa Pro",
+  "description": "A modern news application where an admin can post categorized news with images, and users can read, search, and save their favorite articles. Features AI-powered summaries for new posts.",
+  "requestFramePermissions": []
+}
