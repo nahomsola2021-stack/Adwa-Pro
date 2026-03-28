@@ -30,16 +30,10 @@ The goal of Adwa Pro is to create a reliable digital news platform that enables 
 
 ---
 
-## 🖼️ Screenshots
-_Add screenshots of your app here_
 
-Example:
-![Homepage](./screenshots/home.png)
-
----
 
 ## 🌐 Live Demo
-_Add your GitHub Pages or hosted link here_
+(https://nahomsola2021-stack.github.io/Adwa-Pro/)
 
 ---
 
