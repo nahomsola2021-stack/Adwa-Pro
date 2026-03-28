@@ -1,20 +1,59 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 📰 Adwa Pro – News Publishing App
 
-# Run and deploy your AI Studio app
+## 🌍 Overview
+**Adwa Pro** is a modern news publishing platform designed to deliver timely and relevant news content to users. The application provides a clean and engaging interface for browsing, reading, and managing news articles across different categories.
 
-This contains everything you need to run your app locally.
+It is built to support both readers and content managers, making it easy to publish, update, and access news in real time.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1jqHcId_qorBkIymy78rjUEEe4Jrnways
+---
 
-## Run Locally
+## 🚀 Features
+- 📰 News article publishing system  
+- 📂 Categorized news sections (e.g., Politics, Business, Technology, Entertainment)  
+- 🔍 Search and easy navigation  
+- 📱 Fully responsive design for mobile and desktop  
+- ⚡ Fast and user-friendly interface  
+- ✍️ Admin/content management functionality *(if included)*  
 
-**Prerequisites:**  Node.js
+---
 
+## 💡 Purpose
+The goal of Adwa Pro is to create a reliable digital news platform that enables fast content delivery while providing a smooth reading experience for users. It helps media publishers manage and distribute news efficiently.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🛠️ Technologies Used
+- React / JavaScript *(or update based on your stack)*  
+- HTML / CSS  
+- API integration *(if applicable)*  
+- Responsive design principles  
+
+---
+
+## 🖼️ Screenshots
+_Add screenshots of your app here_
+
+Example:
+![Homepage](./screenshots/home.png)
+
+---
+
+## 🌐 Live Demo
+_Add your GitHub Pages or hosted link here_
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/adwa-pro-news.git
+
+# Navigate into the project folder
+cd adwa-pro-news
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
